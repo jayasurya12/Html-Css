@@ -28,7 +28,7 @@ body{
     background-color:rgb(227, 238, 243);
     padding:40px;
     width: 350px;
-    height:350px;
+    height:450px;
     border-radius: 2em;
     margin:auto;
     margin-top:50px;
@@ -83,15 +83,7 @@ button,button i{
 p{
     margin-bottom: 20px;
 }
-i.fa.fa-empire, a{
-    color: #ff1464;
 
-}
-i.fa.fa-empire{
-    font-size: 60px;
-    margin-bottom: 20px;
-    
-}
 h2{
     margin-bottom: 20px;
 }
