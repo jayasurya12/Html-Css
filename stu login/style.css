@@ -73,7 +73,7 @@ input, button, .group i, p, a{
 }
 button{
     padding: 12px;
-    background-image: linear-gradient(to right,#ff1464,purple);
+    background-image: linear-gradient(to right,#268ceb,rgb(187, 211, 226));
     margin-bottom: 20px;
     cursor: pointer;
 }
@@ -82,7 +82,7 @@ button i{
     margin-right:5px ;
 }
 button,button i{
-    color:#fff;
+    color:rgb(189, 35, 35);
 }
 
 p{
@@ -93,7 +93,7 @@ h2{
     margin-bottom: 20px;
 }
 input:focus,input:focus::placeholder,input:focus+i{
-    color:#ff1464;
+    color:rgb(189, 35, 35);
 
 }
 input:focus, button:focus{
@@ -103,8 +103,8 @@ input:focus, button:focus{
 
 @media(max-width: 767px){
     body:before,body:after{
-        height:150px;
-        width: 300px;
+        height:100px;
+        width: 20px;
 
     }
 }
