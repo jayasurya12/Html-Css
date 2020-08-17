@@ -104,7 +104,7 @@ input:focus, button:focus{
 @media(max-width: 767px){
     body:before,body:after{
         height:100px;
-        width: 20px;
+        width: 200px;
 
     }
 }
